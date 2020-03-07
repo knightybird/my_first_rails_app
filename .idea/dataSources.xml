@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails My_First_Rails_App: test" uuid="23e95206-4b7e-4be3-9132-00aa208cb23f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/My_First_Rails_App_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails My_First_Rails_App: production" uuid="2eff5ad2-2ef3-4f89-aa1e-83d7a9708bd6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/My_First_Rails_App_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails My_First_Rails_App: development" uuid="3d86a7ff-f05b-4a0f-8d53-efa0ed62a423">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/My_First_Rails_App_development</jdbc-url>
+    </data-source>
+  </component>
+</project>
